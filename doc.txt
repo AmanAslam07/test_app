@@ -1,0 +1,6 @@
+-Git is a version control system.
+-It is developed to manage project with high speed and efficiency.
+-It allows to monitor and work together with our team.
+-It designed to handle minor and mojor project and coordinate among team-member.
+-Git has fast performane.
+-Git is scalable which means if number of user increases git can easily handle that situation.
